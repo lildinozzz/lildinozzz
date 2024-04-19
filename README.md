@@ -19,9 +19,6 @@
   <a href="https://t.me/lildiblch" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegramm" width="30px" height="30px" style="background-color: black; width: 60px; height: 60px;">
   </a>
-    <a href="https://wa.me/998901174833" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="30px" height="30px" style="background-color: black; width: 60px; height: 60px;">
-  </a>
 </p>
 
 <hr style="border-top: 1px solid #ccc;">
