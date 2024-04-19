@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/kim-artur/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" alt="LinkedIn" width="30px" height="30px" style="background-color: black; width: 60px; height: 60px;">
   </a>
-  <a href="https://t.me/lildinoooo" target="_blank">
+  <a href="https://t.me/lildiblch" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegramm" width="30px" height="30px" style="background-color: black; width: 60px; height: 60px;">
   </a>
     <a href="https://wa.me/998901174833" target="_blank">
